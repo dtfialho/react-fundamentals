@@ -2,8 +2,10 @@ import React from 'react';
 
 class App extends React.Component {
 	render() {
-		return <div>Hello</div>
+		return <h1>Hello Guys</h1>
 	}
 }
+
+// const App = () => <h1>Hello Guys</h1>
 
 export default App
